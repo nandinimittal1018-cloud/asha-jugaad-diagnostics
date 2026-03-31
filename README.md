@@ -53,9 +53,12 @@ This is a complete AI-powered health triage system designed for ASHA (Accredited
 - Marwari (मारवाड़ी)
 - Voice input support
 
-  ## 🎥 Demo
+ 
+## 🌐 Live App
+👉 https://asha-jugaad-diagnostics.vercel.app
 
-🌐 Live App: https://backend-setup-25.preview.emergentagent.com  
+## 🎥 Demo Video
+👉 https://backend-setup-25.preview.emergentagent.com
 
 🧪 Try these use cases:
 - Emergency triage (chest pain, breathlessness)
