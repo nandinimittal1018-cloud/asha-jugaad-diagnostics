@@ -8,10 +8,10 @@ An AI-powered triage assistant enabling ASHA workers to perform early diagnosis 
 
 ## 👥 Team Members
 
-- **Anshika Pandey** – [GitHub](https://github.com/your-username)
+- **Anshika Pandey** – [GitHub](https://github.com/anshikapandey1375-hue)
 - **Nandini Mittal** – [GitHub](https://github.com/nandinimittal1018-cloud)
 - **Padmini Singh Tanwar** – [GitHub](https://github.com/Padmini0)
-- **Riya Sharma** – [GitHub](https://github.com/username4)
+- **Riya Sharma** – [GitHub]()
 
 
 "# ASHA Jugaad Diagnostics - Rural Health Triage System
