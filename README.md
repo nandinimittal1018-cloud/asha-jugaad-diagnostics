@@ -65,7 +65,37 @@ This is a complete AI-powered health triage system designed for ASHA (Accredited
 
 > 💡 No login required. Works directly in browser.
 
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](home.png)
+
+### 📝 Form Page
+![Form](form.png)
+
+### 🤖 Doctor Chat Interface
+![Doctor Chat](drchat.png)
+
+### 🧠 Image Analysis
+![Image Analysis](image-analysis.png)
+
+### 📊 PHC Dashboard
+![PHC Dashboard](phc-dashboard.png)
+
+### 🤰 Pregnancy Analysis - Step 1
+![Pregnancy Step 1](pregnancy-analysis-step(1).png)
+
+### 🤰 Pregnancy Analysis - Step 2
+![Pregnancy Step 2](pregnancy-analysis-step(2).png)
+
+### 🤰 Pregnancy Analysis - Step 3
+![Pregnancy Step 3](pregnancy-analysis-step(3).png)
+
+### 📈 Result Page
+![Result](result.png)
+
+### 🎤 Symptoms & Audio Input
+![Symptoms and Audio](symptoms-and-audio.png)
 
 ## 🚀 Quick Start
 
